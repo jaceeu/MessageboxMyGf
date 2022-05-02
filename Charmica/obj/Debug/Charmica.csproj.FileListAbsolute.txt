@@ -1,0 +1,11 @@
+C:\Users\Carlo\source\repos\Charmica\Charmica\bin\Debug\Charmica.exe.config
+C:\Users\Carlo\source\repos\Charmica\Charmica\bin\Debug\Charmica.exe
+C:\Users\Carlo\source\repos\Charmica\Charmica\bin\Debug\Charmica.pdb
+C:\Users\Carlo\source\repos\Charmica\Charmica\obj\Debug\Charmica.csproj.AssemblyReference.cache
+C:\Users\Carlo\source\repos\Charmica\Charmica\obj\Debug\Charmica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Carlo\source\repos\Charmica\Charmica\obj\Debug\Charmica.Form1.resources
+C:\Users\Carlo\source\repos\Charmica\Charmica\obj\Debug\Charmica.Properties.Resources.resources
+C:\Users\Carlo\source\repos\Charmica\Charmica\obj\Debug\Charmica.csproj.GenerateResource.cache
+C:\Users\Carlo\source\repos\Charmica\Charmica\obj\Debug\Charmica.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\source\repos\Charmica\Charmica\obj\Debug\Charmica.exe
+C:\Users\Carlo\source\repos\Charmica\Charmica\obj\Debug\Charmica.pdb
